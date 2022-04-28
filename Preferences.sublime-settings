@@ -1,0 +1,43 @@
+{
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"theme": "Material-Theme-Darker.sublime-theme",
+
+	"material_theme_accent_acid-lime"     : true,
+	"material_theme_accent_blue"          : true,
+	"material_theme_accent_brba"          : true,
+	"material_theme_accent_bright-teal"   : true,
+	"material_theme_accent_cyan"          : true,
+	"material_theme_accent_graphite"      : true,
+	"material_theme_accent_indigo"        : true,
+	"material_theme_accent_lime"          : true,
+	"material_theme_accent_orange"        : true,
+	"material_theme_accent_pink"          : true,
+	"material_theme_accent_purple"        : true,
+	"material_theme_accent_red"           : true,
+	"material_theme_accent_sky"           : true,
+	"material_theme_accent_tomato"        : true,
+	"material_theme_accent_yellow"        : true,
+	"material_theme_small_tab"            : false,
+
+	"material_theme_small_tab"            : false, // 
+	"highlight_line"                      : true, // Выделить строку, на которой находится курсор.
+	"show_encoding"                       : true, // Отображать в статусной строке кодировку файла.
+	"save_on_focus_lost"                  : false, // Автоматически сохранять файл при потере фокуса.
+
+	"font_size"                           : 11, // Размер шрифта.
+
+	"fallback_encoding"                   : "Cyrillic (Windows 1251)", // "Cyrillic (Windows 1251)",
+	"default_encoding"                    : "UTF-8", // "UTF-8",
+
+	"caret_style"                         : "smooth", // Установить метод мигания курсора
+	"match_brackets"                      : true, // Нужно ли отображать круглые скобки, где находится текущий курсор, а также закрывающую метку заголовка и конца кода
+	"match_brackets_content"              : true, // Когда установлено значение false, match_brackets вступит в силу только тогда, когда курсор находится в скобках или оба конца закрытой метки
+	"match_brackets_square"               : true, // Независимо от того, чтобы выделить скобки, match_brackets имеет значение true, чтобы вступить в силу
+	"match_brackets_braces"               : true, // Независимо от того, чтобы выделить скобки, match_brackets имеет значение true, чтобы вступить в силу
+	"match_brackets_angle"                : true, // Независимо от того, чтобы выделить угловые скобки, match_brackets имеет значение true, чтобы вступить в силу
+
+	"ignored_packages":
+	[
+		"Vintage"
+	]
+}
